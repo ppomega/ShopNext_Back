@@ -1,0 +1,5 @@
+[phases.setup]
+nixpkgs = ["jdk"]
+
+[variables]
+JDK_VERSION = "24"
