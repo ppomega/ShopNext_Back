@@ -5,7 +5,6 @@ import java.time.LocalDate;
 import java.time.ZoneOffset;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Base64;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
